@@ -1,0 +1,23 @@
+D:\Away\Autodesk\Navisworks Manage 2024\Plugins\NavisPlugin\NavisPlugun.dll
+D:\Away\Autodesk\Navisworks Manage 2024\Plugins\NavisPlugin\NavisPlugun.pdb
+D:\Never\MainCode\.NET\MyCode\PlainProject\NavisPlugun\obj\Debug\NavisPlugun.csproj.AssemblyReference.cache
+D:\Never\MainCode\.NET\MyCode\PlainProject\NavisPlugun\obj\Debug\NavisPlugun.csproj.CoreCompileInputs.cache
+D:\Never\MainCode\.NET\MyCode\PlainProject\NavisPlugun\obj\Debug\NavisPlu.65AB9041.Up2Date
+D:\Never\MainCode\.NET\MyCode\PlainProject\NavisPlugun\obj\Debug\NavisPlugun.dll
+D:\Never\MainCode\.NET\MyCode\PlainProject\NavisPlugun\obj\Debug\NavisPlugun.pdb
+D:\Away\Autodesk\Navisworks Manage 2024\Plugins\NavisPlugun\NavisPlugun.dll
+D:\Away\Autodesk\Navisworks Manage 2024\Plugins\NavisPlugun\NavisPlugun.pdb
+D:\Away\Autodesk\Navisworks Manage 2024\Plugins\NavisPlugun\NavisPlugun.dll.config
+D:\Never\MainCode\.NET\MyCode\MainProject\NavisPlugun\obj\Debug\NavisPlugun.csproj.AssemblyReference.cache
+D:\Never\MainCode\.NET\MyCode\MainProject\NavisPlugun\obj\Debug\NavisPlugun.csproj.CoreCompileInputs.cache
+D:\Never\MainCode\.NET\MyCode\MainProject\NavisPlugun\obj\Debug\NavisPlu.65AB9041.Up2Date
+D:\Never\MainCode\.NET\MyCode\MainProject\NavisPlugun\obj\Debug\NavisPlugun.dll
+D:\Never\MainCode\.NET\MyCode\MainProject\NavisPlugun\obj\Debug\NavisPlugun.pdb
+D:\codes\c#\navisworks_test\NavisPlugun\obj\Debug\NavisPlugun.csproj.AssemblyReference.cache
+D:\codes\c#\navisworks_test\NavisPlugun\obj\Debug\NavisPlugun.csproj.CoreCompileInputs.cache
+D:\codes\c#\navisworks_test\NavisPlugun\obj\Debug\NavisPlu.65AB9041.Up2Date
+D:\codes\c#\navisworks_test\NavisPlugun\obj\Debug\NavisPlugun.dll
+D:\codes\c#\navisworks_test\NavisPlugun\obj\Debug\NavisPlugun.pdb
+D:\navisworks\Navisworks Manage 2026\Plugins\NavisPlugun\NavisPlugun.dll.config
+D:\navisworks\Navisworks Manage 2026\Plugins\NavisPlugun\NavisPlugun.dll
+D:\navisworks\Navisworks Manage 2026\Plugins\NavisPlugun\NavisPlugun.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavisPlugun", "NavisPlugun.csproj", "{A466DEC9-09A2-464A-993F-05D5A8CB4351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A466DEC9-09A2-464A-993F-05D5A8CB4351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A466DEC9-09A2-464A-993F-05D5A8CB4351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A466DEC9-09A2-464A-993F-05D5A8CB4351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A466DEC9-09A2-464A-993F-05D5A8CB4351}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51D7736D-ACFC-46ED-943C-6B1FD0485CC8}
+	EndGlobalSection
+EndGlobal
